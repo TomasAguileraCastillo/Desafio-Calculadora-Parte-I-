@@ -47,7 +47,7 @@ public class TestCalculadora {
 
     @Test
     public void testSumar(){
-        logger.info("info test sumar 2 numeros");
+        logger.info("info test Sumar 2 numeros");
         //crear persona pasandole los datos a la clase
 
         Calculadora calculadora = new Calculadora(35, 25);
@@ -58,7 +58,7 @@ public class TestCalculadora {
 
     @Test
     public void testRestar(){
-        logger.info("info test sumar 2 numeros");
+        logger.info("info test Restar 2 numeros");
         //crear persona pasandole los datos a la clase
 
         Calculadora calculadora = new Calculadora(5, 5);
@@ -69,7 +69,7 @@ public class TestCalculadora {
 
     @Test
     public void testMultiplicar(){
-        logger.info("info test sumar 2 numeros");
+        logger.info("info test Multiplicar 2 numeros");
         //crear persona pasandole los datos a la clase
 
         Calculadora calculadora = new Calculadora(5, 8);
@@ -81,7 +81,7 @@ public class TestCalculadora {
 
   @Test
     public void testDividir(){
-        logger.info("info test sumar 2 numeros");
+        logger.info("info test Dividir 2 numeros");
         //crear persona pasandole los datos a la clase
 
         Calculadora calculadora = new Calculadora(35, 25);

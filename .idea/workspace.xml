@@ -4,16 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="690175ba-61c4-4bf0-a4d1-7e29a2ff0dfe" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cl/praxis/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cl/praxis/calculadora/Calculadora.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/cl/praxis/TestCalculadora.java" afterDir="false" />
+    <list default="true" id="690175ba-61c4-4bf0-a4d1-7e29a2ff0dfe" name="Changes" comment="Creacion de Proyecto">
+      <change afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/cl/praxis/TestCalculadora.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/cl/praxis/TestCalculadora.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +38,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.App.executor": "Run",
+    "JUnit.TestCalculadora.executor": "Run",
     "JUnit.TestCalculadora.testMultiplicar.executor": "Run",
     "JUnit.TestCalculadora.testRestar.executor": "Run",
     "JUnit.TestCalculadora.testSumar.executor": "Run",
@@ -136,6 +131,24 @@
       <option name="presentableId" value="Default" />
       <updated>1718397384927</updated>
     </task>
+    <task id="LOCAL-00001" summary="Creacion de Proyecto">
+      <option name="closed" value="true" />
+      <created>1718400785498</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1718400785498</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Creacion de Proyecto" />
+    <option name="LAST_COMMIT_MESSAGE" value="Creacion de Proyecto" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Desafio_Calculadora_Parte_I$TestCalculadora.ic" NAME="TestCalculadora Coverage Results" MODIFIED="1718400603094" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>cl.praxis.*</FILTER>
+    </SUITE>
   </component>
 </project>
